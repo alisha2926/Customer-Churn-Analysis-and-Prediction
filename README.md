@@ -37,4 +37,4 @@ The confusion matrix provides a clear picture of the model's predictive capabili
 
 # Output 
 <img src="https://github.com/alisha2926/Customer-Churn-Analysis-and-Prediction/blob/main/pic1.png">
-<img src="">
+<img src="https://github.com/alisha2926/Customer-Churn-Analysis-and-Prediction/blob/main/Pic2.png">
