@@ -1,8 +1,8 @@
 # Customer-Churn-Analysis-and-Prediction
 This project is a machine learning-based customer churn analysis and prediction model. The primary goal is to analyze customer data, understand the factors that lead to churn, and build a predictive model to identify customers at risk of churning.
 
-# Dataset
-The analysis is based on the Telco-Customer-Churn.csv dataset. This dataset contains information about a telecommunication company's customers, including the services they use (e.g., internet, phone service), monthly charges, contract details, and whether they have churned.
+# Dataset Used
+- <a href = "https://github.com/alisha2926/Customer-Churn-Analysis-and-Prediction/blob/main/Telco-Customer-Churn.csv"> Dataset </a>
 
 # Libraries 
 - Pandas: For data manipulation and analysis.
