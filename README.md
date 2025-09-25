@@ -36,5 +36,5 @@ A machine learning model is trained to predict customer churn. The process invol
 The confusion matrix provides a clear picture of the model's predictive capability, indicating its accuracy in identifying at-risk customers.
 
 # Output 
-<img src="">
+<img src="https://github.com/alisha2926/Customer-Churn-Analysis-and-Prediction/blob/main/pic1.png">
 <img src="">
