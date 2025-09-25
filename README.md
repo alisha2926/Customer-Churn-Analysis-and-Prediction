@@ -13,11 +13,11 @@ The analysis is based on the Telco-Customer-Churn.csv dataset. This dataset cont
 # Key Steps
 - Exploratory Data Analysis (EDA)
 The EDA phase focuses on understanding the data and its characteristics. Key steps include:
-Data Loading and Inspection: The project begins by loading the Telco-Customer-Churn.csv dataset and inspecting the first few rows to understand its structure.
-Missing Value Check: The dataset is checked for any missing values to ensure data quality.
-Descriptive Statistics: Descriptive statistics are generated for numerical columns like tenure and MonthlyCharges to understand their distribution and central tendencies.
-Target Variable Analysis: The distribution of the Churn variable is visualized to show the imbalance between customers who have churned (Yes) and those who have not (No). This is a crucial step for understanding the problem.
-Feature Analysis: The analysis also explores the relationship between various features and the Churn variable to identify potential drivers of churn.
+- Data Loading and Inspection: The project begins by loading the Telco-Customer-Churn.csv dataset and inspecting the first few rows to understand its structure.
+- Missing Value Check: The dataset is checked for any missing values to ensure data quality.
+- Descriptive Statistics: Descriptive statistics are generated for numerical columns like tenure and MonthlyCharges to understand their distribution and central tendencies.
+- Target Variable Analysis: The distribution of the Churn variable is visualized to show the imbalance between customers who have churned (Yes) and those who have not (No). This is a crucial step for understanding the problem.
+- Feature Analysis: The analysis also explores the relationship between various features and the Churn variable to identify potential drivers of churn.
 
 # Model Building and Evaluation
 A machine learning model is trained to predict customer churn. The process involves:
@@ -27,10 +27,10 @@ A machine learning model is trained to predict customer churn. The process invol
 - Model Training: A Logistic Regression model is chosen and trained on the preprocessed data.
 
 - Model Evaluation: The model's performance is evaluated using a confusion matrix. The confusion matrix helps to visualize the model's performance by showing the number of correct and incorrect predictions. It breaks down the predictions into four categories:
-True Positives (TP): Correctly predicted churned customers.
-False Positives (FP): Incorrectly predicted churned customers (Type I error).
-True Negatives (TN): Correctly predicted non-churned customers.
-False Negatives (FN): Incorrectly predicted non-churned customers (Type II error).
+- True Positives (TP): Correctly predicted churned customers.
+- False Positives (FP): Incorrectly predicted churned customers (Type I error).
+- True Negatives (TN): Correctly predicted non-churned customers.
+- False Negatives (FN): Incorrectly predicted non-churned customers (Type II error).
 
-Results
+# Results
 The confusion matrix provides a clear picture of the model's predictive capability, indicating its accuracy in identifying at-risk customers.
